@@ -105,4 +105,4 @@ If you utilize this codebase or find it helpful, please cite the original paper:
 
 ## 📬 Contact
 
-For questions or feedback, feel free to reach out to [Viraj Ajani](https://github.com/Viraj-Ajani).
+For questions or feedback, feel free to reach out to [Viraj Ajani](virajajani007@gmail.com).
